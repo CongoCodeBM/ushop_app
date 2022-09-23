@@ -1,6 +1,6 @@
 # ushop_app
 
-A simplified flutter app that can be used as a foundation to develop a shopping list with more features. Users can use the app when going for grocery shopping. The data is stored in Firebase RealTime Database
+A simplified flutter app that can be used as a foundation to develop a shopping list with more features. Users can use the app when going for grocery shopping. The data is stored in Firebase RealTime Database.
 
 ## Getting Started
 
