@@ -1,16 +1,9 @@
 # ushop_app
 
-A new Flutter project.
+A simplified flutter app that can be used as a foundation to develop a shopping list with more features. Users can use the app when going for grocery shopping. The data is stored in Firebase RealTime Database
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+When using the project, you only need to modify the "url_strings.dart" file located in under the following path: lib/constants. The file has instructions on how to get you started :)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For any issues, feel free to contact me for help.
